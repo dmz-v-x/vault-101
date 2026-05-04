@@ -106,9 +106,6 @@ The UI is helpful for:
 ## Vault Architecture (High-Level Flow)
 
 
-::contentReference[oaicite:0]{index=0}
-
-
 At a high level, Vault works in the following sequence.
 
 ---
